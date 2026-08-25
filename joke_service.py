@@ -39,10 +39,10 @@ def extract_joke_data(api_data):
     return joke_dict
 
 def analyze_joke(joke):
-    analyze_data={"chars": 0, "wors": 0}
+    analyze_data={"chars": 0, "words": 0}
     words = joke["joke"].split(" ")
     for word in words:
-        analyze_data["wors"] += 1
+        analyze_data["words"] += 1
         for char in word:
             analyze_data["chars"] += 1
     
