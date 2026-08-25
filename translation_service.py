@@ -13,18 +13,18 @@ def get_key():
     else:
         print(".env file doesn't found!")
 
-def translate_joke(joke, target_lang, key):
-    
+def translate_joke(joke, target_language):
     try:
+        key = get_key()
         deepl_client = deepl.DeepLClient(key)
-        result = deepl_client.translate_text(joke, target_lang)
+        result = deepl_client.translate_text(joke, target_lang= target_language)
         data = result.text
-        hebrew_joke  = get_display(data)
-        return hebrew_joke
+        if target_language == "HE":
+            data  = get_display(data)
+        return data
     except:
         print("The joke was received, but it could not be translated.")
         return joke
-
 
 
 
