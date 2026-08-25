@@ -14,3 +14,7 @@ def choose_language(lang):
         return "fr"
     elif lang.lower() == "italian" or lang == "4":
         return "it"
+    else:
+        return "Invalid language choice."
+
+
