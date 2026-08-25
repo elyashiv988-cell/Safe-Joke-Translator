@@ -29,7 +29,24 @@ def get_safe_joke():
             return joke
 
     return None
+
+def extract_joke_data(api_data):
+    joke_dict = {"joke": api_data["joke"],
+                "category": api_data["category"],
+                "joke_id": api_data["id"],
+                "language": api_data["lang"]
+                }
+    return joke_dict
+
+def analyze_joke(joke):
+    analyze_data={"chars": 0, "wors": 0}
+    words = joke["joke"].split(" ")
+    for word in words:
+        analyze_data["wors"] += 1
+        for char in word:
+            analyze_data["chars"] += 1
     
+    return analyze_data
 
     
 

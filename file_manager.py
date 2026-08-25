@@ -1,5 +1,5 @@
-
-
+from joke_service import *
+        
 def display_menu():
     lang = input(f"Choose a translation language:\n\n1. Hebrew\n2. Spanish\n3. French\n4. Italian")
     return lang
@@ -18,3 +18,12 @@ def choose_language(lang):
         return "Invalid language choice."
 
 
+def run():
+    
+    joke = get_safe_joke()
+    if joke:
+        data = extract_joke_data(joke)
+        print(data)
+        print(analyze_joke(joke))
+
+run()
