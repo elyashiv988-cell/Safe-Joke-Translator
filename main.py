@@ -1,2 +1,5 @@
-from joke_service import *
+from app import *
 
+def main():
+    run()
+main()

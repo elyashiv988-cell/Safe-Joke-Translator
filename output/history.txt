@@ -1,0 +1,53 @@
+Joke ID: 35
+Category: Programming
+Original text: There are only 10 kinds of people in this world: those who know binary and those who don't.
+Translation language: HE
+Translation: יש רק 01 סוגים של אנשים בעולם הזה: אלה שיודעים מה זה בינארי ואלה שלא.
+=======================Joke ID: 27
+Category: Programming
+Original text: Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Translation language: ES
+Translation: .airomem al odneidrep sabaca lanif la orep ,oicapsed aznava oipicnirp la :remiehzlA le omoc se avaJ
+=======================
+Joke ID: 220
+Category: Programming
+Original text: Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+Translation language: HE
+Translation: שתי טבלאות LQS יושבות בבר. שאילתה מתקרבת ושואלת: "אפשר להצטרף אליכם?"
+=======================
+Joke ID: 34
+Category: Programming
+Original text: Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
+Translation language: FR
+Translation: » .elbuod nu suon-zevreS «
+.stetco sel tnednopér ,» iuO «
+» ? esohc euqleuq rivres suov xuep eJ « : ednamed ruel namrab eL
+.rab nu snad tnertne stetco tiuH
+=======================
+Joke ID: 0
+Category: Programming
+Original text: I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+Translation language: IT
+Translation: .iaripac al es os non am ,itratnoccar ad PDU'llus etnetrevid orevvad atuttab anu oH
+=======================
+Joke ID: 27
+Category: Programming
+Original text: Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone.
+Translation language: FR
+Translation: .eriomém al tnemetèlpmoc drep no ,tnemom nu'd tuob ua siam ,tnemecuod ecnemmoc aç : remiehzlA'd eidalam al emmoc tse'c ,avaJ
+=======================
+Joke ID: 9
+Category: Programming
+Original text: Your mama's so FAT she can't save files bigger than 4GB.
+Translation language: HE
+Translation: אמא שלך כל כך שמנה שהיא לא מצליחה לשמור קבצים שגודלם עולה על BG4.
+=======================
+Joke ID: 23
+Category: Programming
+Original text: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Translation language: FR
+Translation: .eriassecén euq dnarg sulp siof xued tse li ; ediv éitiom à in nielp éitiom à in tse'n errev eL
+=======================

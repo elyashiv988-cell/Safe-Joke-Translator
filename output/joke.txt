@@ -1,8 +1,9 @@
-SAJE JOKE=========
+SAJE JOKE
+=========
 Category: Programming
-Joke ID: 39
-Original text: The generation of random numbers is too important to be left to chance.
-Translation language: HE
-Translation: הפקת מספרים אקראיים היא דבר חשוב מכדי להשאיר אותו ליד המקרה.
-Words: 13
-Characters: 59
+Joke ID: 23
+Original text: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+Translation language: FR
+Translation: .eriassecén euq dnarg sulp siof xued tse li ; ediv éitiom à in nielp éitiom à in tse'n errev eL
+Words: 18
+Characters: 74
